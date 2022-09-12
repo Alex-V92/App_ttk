@@ -17,3 +17,6 @@
 <p>auto-py-to-exe</p>
 <p>or</p>
 <p>pyinstaller --noconfirm --onefile --windowed</p>
+
+## License
+MIT
